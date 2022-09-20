@@ -1,91 +1,137 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Adam Majewski's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Adam Majewski
+Graduate Research Assistant | Chemical Engineering (BS), Atmospheric Science (MS and PhD-ABD)
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="amajewsk@uwyo.edu">amajewsk@uwyo.edu</a>
+| <a href="http://www.uwyo.edu/atsc/directory/graduate-students-and-post-docs/amajewski.html">UWyo Dept. Atmospheric Science Website</a>
 </div>
 
 
-## Currently
+## Research and Methodology Statement
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Using computational and statistical methods (including: signal processing, machine learning, regression analysis, object-oriented programming,
+and data wrangling) to scrutinize the link between observed cloud dynamical processes and coupled microphysical response to infer principles for 
+process level prediction and compare against state-of-the-art atmospheric model predictions.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016-Present`
+__University of Wyoming__
+MS Atmospheric Science (2019), PhD Incomplete (ABD)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Graduate Assistant
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2015`
+__University of Pittsburgh__
+BS Chemical Engineering
 
 
+## Awards and Honors
 
-## Awards
+`2021`
+National Convention Delegate, *Democratic Socialists of America*, SE Wyoming Chapter
 
-`2012`
-President, *Royal Society*, London, UK
+`2020`
+Affiliate Council Delegate, *Marxist Center*, Wyoming Red Star Coalition
 
-Associate, *French Academy of Science*, Paris, France
+`2018`
+Scholarship Recipient, *North American Weather Modification Council*
 
+`2015`
+Magna Cum Laude, *University of Pittsburgh*
+
+`2011-2015`
+Honors College Scholarship Recipient, *University of Pittsburgh*
 
 
 ## Publications
+### First Author
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2020`
 
-### Journals
+- Majewski, A and J R French: Supercooled Drizzle Development in Response to Semi-Coherent Vertical Velocity Fluctuations Within an Orographic-Layer Cloud, *Atmospheric Chemistry and Physics*
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### Contributing Author
 
-`1669`
-Lectiones opticæ.
+`2019`
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Sarah Tessendorf et al.: A Transformational Approach to Winter Orographic Weather Modification Research: The SNOWIE Project, *Bulletin of the American Meteorological Society*
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+## Conference Materials
+### Presentations
 
-- Warden
-- Minted coins
+`2022`
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Majewski, A: Unsupervised Machine Learning for Identifying Turbulent Flow from Airborne W-Band Cloud Radar, *AMS 20th Conference on Mountain Meteorology*
+
+`2021`
+
+- Majewski, A, J R French, and S Haimov: Characterization of Turbulence at Fine Scales Using Doppler Spectral Width from an Airborne Cloud Radar, *AMS Annual Meeting* *Withdrawn due to COVID diagnosis
+
+`2019`
+
+- Majewski, A and J R French: Supercooled Drizzle Drop Development in Response to Semi-Coherent Vertical Velocity Perturbations, *Weather Modification Association Annual Meeting*
+
+`2018`
+
+- Majewski, A: Supercooled Drizzle Drop Development in Postfrontal Elevated Convection During the SNOWIE Campaign, *Colorado State University Young Student Symposium on Atmospheric Research*
+
+### Posters
+
+`2020`
+
+- Majewski, A: Observations of Supercooled Drizzle Production in a Wintertime Orographic Cloud, *AMS Annual Meeting*
+
+`2019`
+
+- Majewski, A: Development and Validation of a Collocated Airborne Cloud Radar/Lidar Methodology for Near-Aircraft Cloud Phase Detection, *Colorado State University Young Student Symposium on Atmospheric Research*
+
+`2018`
+
+- Majewski, A: Sensitivity of Freezing Drizzle Development in Orographic Wintertime Clouds to Thermodynamic Stability and Orographic Enhancement, *AMS 15th Conference on Cloud Physics*
+
+
+## Field Experience
+
+`2016`
+__Seeded and Natural Orographic Clouds—the Idaho Experiment__, Boise, ID
+
+- *Cloud Probe Operator* for public-private airborne cloud seeding efficacy experiment
+
+`2019`
+__Terrain Effects on Clouds and Precipitation—an Educational Campaign__, Salt Lake City, UT
+
+- *Research Flight Scientist* for educational radar-based field campaign on select flights
+
+
+## Work Experience
+
+`Summer 2015`
+__Schlumberger__, Abilene, TX
+
+- Wireline Engineer Intern
+
+`2015-2016`
+__Icerink Operations__, Cranberry, PA
+
+- Zamboni Driver
+- Maintenance
+
+`Summers 2011-2015`
+__Marshall Township Parks and Recreation__, Warrendale, PA
+
+- Groundskeeping
+- Maintenance
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: Sept 2022 -->
