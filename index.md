@@ -22,11 +22,11 @@ process level prediction and compare against state-of-the-art atmospheric model 
 
 `2016-Present`
 __University of Wyoming__
-MS Atmospheric Science (2019), PhD Incomplete (ABD)
+MS Atmospheric Science (2019), PhD Candidate (ABD; 2019-Present)
 
 - Graduate Assistant
 
-`2015`
+`2011-2015`
 __University of Pittsburgh__
 BS Chemical Engineering
 
@@ -35,9 +35,6 @@ BS Chemical Engineering
 
 `2021`
 National Convention Delegate, *Democratic Socialists of America*, SE Wyoming Chapter
-
-`2020`
-Affiliate Council Delegate, *Marxist Center*, Wyoming Red Star Coalition
 
 `2018`
 Scholarship Recipient, *North American Weather Modification Council*
@@ -66,6 +63,10 @@ Honors College Scholarship Recipient, *University of Pittsburgh*
 
 ## Conference Materials
 ### Presentations
+
+`2023`
+
+- Majewski, A, J R French, and S Haimov: Airborne Pulse Pair Spectrum Width as Scale-Dependent Turbulence Metric, *AMS 103rd Annual Meeting*
 
 `2022`
 
@@ -103,12 +104,12 @@ Honors College Scholarship Recipient, *University of Pittsburgh*
 `2016`
 __Seeded and Natural Orographic Clouds—the Idaho Experiment__, Boise, ID
 
-- *Cloud Probe Operator* for public-private airborne cloud seeding efficacy experiment
+- *Cloud Probe Operator* for public-private airborne cloud seeding efficacy experiment. Operated cloud probes for data acquisition and large-drop icing hazard identification from fourth chair of UW King Air.
 
 `2019`
 __Terrain Effects on Clouds and Precipitation—an Educational Campaign__, Salt Lake City, UT
 
-- *Research Flight Scientist* for educational radar-based field campaign on select flights
+- *Research Flight Scientist* for educational radar-based field campaign on select flights. Operated cloud radar for data acquisition and directed portions of flight pattern to target weather features of interest for radar observation from second chair of UW King Air.
 
 
 ## Work Experience
@@ -134,4 +135,4 @@ __Marshall Township Parks and Recreation__, Warrendale, PA
 
 <!-- ### Footer
 
-Last updated: Sept 2022 -->
+Last updated: Jan 2023 -->
