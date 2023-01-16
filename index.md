@@ -101,7 +101,7 @@ Honors College Scholarship Recipient, *University of Pittsburgh*
 
 ## Field Experience
 
-`2016`
+`2017`
 __Seeded and Natural Orographic Clouds—the Idaho Experiment__, Boise, ID
 
 - *Cloud Probe Operator* for public-private airborne cloud seeding efficacy experiment. Operated cloud probes for data acquisition and large-drop icing hazard identification from fourth chair of UW King Air.
