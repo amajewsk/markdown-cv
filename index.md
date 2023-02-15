@@ -15,7 +15,7 @@ Graduate Research Assistant | Chemical Engineering (BS), Atmospheric Science (MS
 
 Using computational and statistical methods (including: signal processing, machine learning, regression analysis, object-oriented programming,
 and data wrangling) to scrutinize the link between observed cloud dynamical processes and coupled microphysical response, infering principles for 
-process level prediction and comparing against state-of-the-art atmospheric model predictions.
+process level prediction and comparing against state-of-the-art atmospheric model simulations.
 
 
 ## Education
