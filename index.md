@@ -21,15 +21,26 @@ process level prediction and comparing against state-of-the-art atmospheric mode
 ## Education
 
 `2016-Present`
-__University of Wyoming__
+__University of Wyoming__: 3.8/4.0
 MS Atmospheric Science (2019), PhD Candidate (ABD; 2019-Present)
 
 - Graduate Assistant
 
 `2011-2015`
-__University of Pittsburgh__
+__University of Pittsburgh__: 3.6/4.0
 BS Chemical Engineering
 
+
+## Proficiencies
+
+`Object Oriented Programming`
+Proficient in python (including scikit-learn libraries), IDL, matlab working with and visualizing large datasets and past experience with simulink, VBA (excel), java, and C++
+
+`Written and Oral Communication`
+2 first author publications, senior capstone group projects in plant design and process modeling, several national conference presentations
+
+`STEM Fundamentals`
+Strong background in mathematics, physics, chemistry, process engineering, research methods, measurements, signal processing, and applications of first principles and theory to stakeholder end use
 
 ## Awards and Honors
 
@@ -48,6 +59,10 @@ Honors College Scholarship Recipient, *University of Pittsburgh*
 
 ## Publications
 ### First Author
+
+`In Preparation`
+
+- Majewski, A, S Haimov and J R French: Airborne Radar Doppler Spectrum Width as a Scale-Dependent Turbulence Metric
 
 `2020`
 
@@ -113,6 +128,11 @@ __Terrain Effects on Clouds and Precipitation—an Educational Campaign__, Salt 
 
 
 ## Work Experience
+
+`2016-Present`
+__Graduate Assistant__, University of Wyoming
+
+- Research assistant funded under the SNOWIE grant
 
 `Summer 2015`
 __Schlumberger__, Abilene, TX
