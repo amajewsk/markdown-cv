@@ -21,13 +21,13 @@ process level prediction and comparing against state-of-the-art atmospheric mode
 ## Education
 
 `2016-Present`
-__University of Wyoming__: 3.8/4.0
+__University of Wyoming__ (3.8/4.0):
 MS Atmospheric Science (2019), PhD Candidate (ABD; 2019-Present)
 
 - Graduate Assistant
 
 `2011-2015`
-__University of Pittsburgh__: 3.6/4.0
+__University of Pittsburgh__ (3.6/4.0):
 BS Chemical Engineering
 
 
