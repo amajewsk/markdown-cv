@@ -33,11 +33,11 @@ BS Chemical Engineering
 
 ## Proficiencies
 
-`Object Oriented Programming`
-Proficient in python (including scikit-learn libraries), IDL, matlab working with and visualizing large datasets and past experience with simulink, VBA (excel), java, and C++
+`Programming`
+Proficient in python (including scikit-learn libraries), IDL, matlab, bash working with and visualizing large datasets and past experience with simulink, VBA (excel), java, and C++
 
-`Written and Oral Communication`
-2 first author publications, senior capstone group projects in plant design and process modeling, several national conference presentations
+`Communication Skills`
+2 first author publications, senior capstone group projects in plant design and process modeling, several national conference oral and remote presentations
 
 `STEM Fundamentals`
 Strong background in mathematics, physics, chemistry, process engineering, research methods, measurements, signal processing, and applications of first principles and theory to stakeholder end use
