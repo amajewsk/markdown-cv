@@ -3,7 +3,7 @@ layout: cv
 title: Adam Majewski's CV
 ---
 # Adam Majewski
-Graduate Research Assistant | Chemical Engineering (BS), Atmospheric Science (MS and PhD-ABD)
+Graduate Research Assistant | Chemical Engineering (BS), Atmospheric Science (PhD)
 
 <div id="webaddress">
 <a href="amajewsk@uwyo.edu">amajewsk@uwyo.edu</a>
@@ -14,7 +14,7 @@ Graduate Research Assistant | Chemical Engineering (BS), Atmospheric Science (MS
 ## Research and Methodology Statement
 
 Using computational and statistical methods (including: signal processing, machine learning, regression analysis, object-oriented programming,
-and data wrangling) to scrutinize the link between observed cloud dynamical processes and coupled microphysical response, infering principles for 
+and data wrangling) to scrutinize the link between observed cloud dynamical processes and microphysical impacts, infering principles for 
 process level prediction and comparing against state-of-the-art atmospheric model simulations.
 
 
@@ -22,7 +22,7 @@ process level prediction and comparing against state-of-the-art atmospheric mode
 
 `2016-Present`
 __University of Wyoming__ (3.8/4.0):
-MS Atmospheric Science (2019), PhD Candidate (ABD; 2019-Present)
+MS (2019) and PhD (November 2023) Atmospheric Science
 
 - Graduate Assistant
 
@@ -34,13 +34,13 @@ BS Chemical Engineering
 ## Proficiencies
 
 `Programming`
-Proficient in python (including scikit-learn libraries), IDL, matlab, bash working with and visualizing large datasets and past experience with simulink, VBA (excel), java, and C++
+Proficient in python (including numpy, pandas, and scikit-learn), IDL, matlab, and bash working with and visualizing large datasets and experience with simulink, VBA (excel), java, and C++
 
 `Communication Skills`
 2 first author publications, senior capstone group projects in plant design and process modeling, several national conference oral and remote presentations
 
 `STEM Fundamentals`
-Strong background in mathematics, physics, chemistry, process engineering, research methods, measurements, signal processing, and applications of first principles and theory to stakeholder end use
+Strong background in mathematics, physics, chemistry, process engineering, research methods, measurements, signal processing, and applications of first principles and theory to stakeholder end goals and self-identified resarch questions
 
 ## Awards and Honors
 
@@ -60,7 +60,7 @@ Honors College Scholarship Recipient, *University of Pittsburgh*
 ## Publications
 ### First Author
 
-`In Preparation`
+`2023`
 
 - Majewski, A, S Haimov and J R French: Airborne Radar Doppler Spectrum Width as a Scale-Dependent Turbulence Metric
 
@@ -81,7 +81,7 @@ Honors College Scholarship Recipient, *University of Pittsburgh*
 
 `2023`
 
-- Majewski, A, J R French, and S Haimov: Airborne Pulse Pair Spectrum Width as Scale-Dependent Turbulence Metric, *AMS 103rd Annual Meeting*
+- Majewski, A, J R French, and S Haimov: Airborne Pulse Pair Spectrum Width as Scale-Dependent Turbulence Metric, *AMS 40th Conference on Radar Meteorology*
 
 `2022`
 
@@ -133,6 +133,12 @@ __Terrain Effects on Clouds and Precipitation—an Educational Campaign__, Salt 
 __Graduate Assistant__, University of Wyoming
 
 - Research assistant funded under the SNOWIE grant
+
+`2014-Present`
+__Graphic Design and Illustration__, Freelance
+
+- Logo, merchandise, label, and pamphlet/poster design for small business, hobbyist/community organizing projects, and podcast branding
+- Support clients from freehand conceptual drafting and illustration to producing final formatted vectored or rasterized adobe assets
 
 `Summer 2015`
 __Schlumberger__, Abilene, TX
