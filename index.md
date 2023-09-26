@@ -7,7 +7,6 @@ Graduate Research Assistant | Chemical Engineering (BS), Atmospheric Science (Ph
 
 <div id="webaddress">
 <a href="amajewsk@uwyo.edu">amajewsk@uwyo.edu</a>
-| <a href="http://www.uwyo.edu/atsc/directory/graduate-students-and-post-docs/amajewski.html">UWyo Dept. Atmospheric Science</a>
 </div>
 
 
