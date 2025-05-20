@@ -10,7 +10,7 @@ Postdoctoral Research Associate - NSF UW King Air Facility | Chemical Engineerin
 </div>
 
 
-## Current Role and Responsibilities
+## Occupational Profile
 
 Subject matter expert and facility lead for cloud physics and hydrometeor spectrometer instrument installation/integration, data collection, processing, and value-added analysis products. Facility project manager for cloud physics research field campaigns.
 
@@ -31,18 +31,18 @@ __University of Pittsburgh__ (3.6/4.0):
 BS Chemical Engineering
 
 
-## Skills
+## Skills and Experience
 
-`Project Management`
+`Projects`
 Facility manager of maintenance/calibration of, instruction on, and installation for stewarded instruments. Software developer and github/gitlab maintainer for data processing code base. Full lifecycle responsibility of collected instrument data from acquisition, QA/QC, and processing to value-added analysis products. Facility coordinator for hosted Micro2Macro conference workshop reception.
 
 `Programming`
 Proficient in python (including: numpy, pandas, and scikit-learn), IDL, matlab, and bash working with and visualizing large datasets; past experience with simulink, VBA (excel), java, and C++. Proficient in git and markdown for communicability and handoff of developed software.
 
-`Communication Skills`
-3 first author publications, several national conference oral and remote presentations, issue-driven community canvassing/organzing, and undergraduate capstone projects in plant design and process modeling.
+`Communication`
+3 first author publications, several national and international conference oral and remote presentations, issue-driven community canvassing/organizing, and undergraduate capstone projects in plant design and process modeling.
 
-`STEM Fundamentals`
+`Fundamentals`
 Strong background in mathematics, physics, chemistry, process engineering, research methods, measurements, signal processing, and applications of first principles and theory to stakeholder end goals as well as self-directed research questions.
 
 
@@ -176,10 +176,10 @@ __Icerink Operations__, Cranberry, PA
 - Zamboni Driver
 - Maintenance
 
-`Summers 2011-2015`
+`2011-2015`
 __Marshall Township Parks and Recreation__, Warrendale, PA
 
-- Groundskeeping
+- Seasonal groundskeeping
 - Maintenance
 
 
